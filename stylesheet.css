@@ -1,0 +1,70 @@
+
+
+html { }
+
+body {
+	color: #6D6D6D;
+	font-family: 'PT Sans', "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: normal;
+	font-size: 1em;
+}
+
+#container {
+  width: 520px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
+#container-stream {
+  width: 900px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
+#logo {
+	position: relative;
+	top:0px;
+	left: 0px;
+	height: 100px;
+}
+
+#title {
+	text-align: center;
+	height: 100px;
+}
+
+#form-area {
+	position: relative;
+	top:0px;
+	left: 0px;
+	height: 100px;
+}
+
+img.small {
+	height: 100px;
+}
+
+.input {
+    border: 1px solid #006;
+    background: #ffc;
+}
+.input:hover {
+    border: 1px solid #f00;
+    background: #ff6;
+}
+.button {
+    border: 1px solid #006;
+    background: #ccf;
+}
+.button:hover {
+    border: 1px solid #f00;
+    background: #eef;
+}
+label {
+    display: block;
+    width: 150px;
+    float: left;
+    margin: 2px 4px 6px 4px;
+    text-align: right;
+}
+br { clear: left; }
