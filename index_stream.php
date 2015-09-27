@@ -27,6 +27,8 @@
 
 </script>
 
+<!-- by Peter Cowley -->
+
 <!-- old ga.js
 <script type="text/javascript">
 
